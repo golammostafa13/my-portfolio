@@ -47,7 +47,7 @@ export default function Home() {
             <h2 className="text-2xl">Developer and Designer</h2>
             <p className="max-w-lg leading-6 text-gray-600 text-lg mx-auto text-justify">
               Developer providing services for programming and design content
-              needs. Join me down below and let&apos;s get cracking.
+              needs. Join me down below and let&apos;s get cracking
             </p>
           </div>
           <div className="max-w-xl my-8 mx-auto flex justify-center gap-12 text-5xl cursor-pointer text-teal-600">
